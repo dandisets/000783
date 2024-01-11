@@ -1,0 +1,4 @@
+[submodule "mydata.zarr"]
+	path = mydata.zarr
+	url = https://github.com/dandizarrs/383b7eb7-d589-40a5-86a9-1ade0b04922c
+	datalad-id = 9a119523-164b-4693-aab0-d4c18bb692c4
